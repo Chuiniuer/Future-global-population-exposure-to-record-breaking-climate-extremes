@@ -1,0 +1,2 @@
+WAP_95th：Getting the 95th of the weighted average of precipitation (WAP) in the historical period.
+get_heavy_precipitation_event: Obtaining heavy precipitation annual time series.
