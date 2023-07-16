@@ -1,0 +1,5 @@
+aggregate_monthly_data.py: Integration of NEX-GDDP-CMIP6 data from the daily scale to the monthly scale.
+merge2time_series.py: Integration of monthly-scale NEX data into a time series from 1950 to 2100.
+create_lat_grid.ipynb: Creation of latitude grid data for calculation of potential evapotranspiration (PET).
+SPEI_by_nex-gddp-cmip6.py：The standardised precipitation evapotranspiration index (SPEI) is calculated for the time scale of 3 months.
+get_drought_events.py: Obtaining drought events time series.
