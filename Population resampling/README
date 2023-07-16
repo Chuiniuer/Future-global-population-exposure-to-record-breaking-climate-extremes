@@ -1,0 +1,2 @@
+resample_population.py: Resampling of population data to 0.25°.
+warp2samperegion.py: Align population data to NEX-GDDP-CMIP6 data.
