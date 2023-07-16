@@ -1,0 +1,18 @@
+get_90th_percentile.py: Obtain the 90th percentile for the historical period of extreme weather events.
+pr_frequency.py: Calculating the annual frequency of extreme precipitation indices.
+WD_frequency.py: Calculating the annual frequency of warm days (using the definition of daily maximum temperature).
+WN_frequency.py: Calculating the annual frequency of warm nights (using the definition of daily minimum temperature).
+WD(HI)_frequency.py: Calculating the annual frequency of warm days (using the definition of HImax).
+get_heatwave_begin.py: Obtaining time series of start dates within each year of heatwaves (intermediate data).
+get_heatwave_begin_result.py: Obtaining time series of start dates within each year of heatwaves (result).
+get_humid_heatwave_begin.py: Obtaining time series of start dates within each year of humid heatwaves (intermediate data).
+get_humid_heatwave_begin_result.py: Obtaining time series of start dates within each year of humid heatwaves (result).
+CDHW_frequency.py: Calculating the annual frequency of compound drought and heatwaves (CDHW).
+SPH_frequency.py: Calculating the annual frequency of sequential precipitation and heatwaves (SPH).
+record_breaking_historical_max.py: Obtaining the maximum annual frequency of climate extremes for the historical period.
+record_breaking_by_year.py: Calculating record-breaking years at grid scale.
+record_breaking_probability.py: Obtaining record-breaking probabilities for climate extremes in the mid- and late 21st century.
+record_breaking_probaility_uncertainty.py: Obtaining 10th, median, 90th percentile in multimodel record-breaking probabilities for climate extremes in the mid- and late 21st century.
+record_breaking_probability_decadal_interval.py: Obtaining record-breaking probabilities for climate extremes at decadal intervals.
+record_breaking_probability_decadal_interval_uncertainty.py: Obtaining 10th, median, 90th percentile in multimodel record-breaking probabilities for climate extremes at decadal intervals.
+record_breaking_probability_trend.py: calculating trends in the record-breaking probabilities.
