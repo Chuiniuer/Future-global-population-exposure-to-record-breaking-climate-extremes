@@ -1,0 +1,6 @@
+exposure.py: calculating popultion exposures of multimodel 10th, 50th, 90th percentile for the mid and late 21st century.
+exposure_decadal_interval_multimodel.py: calculating multimodel population exposures for decadal intervals.
+exposure_decadal_interval_uncertainty.py: calculating popultion exposures of multimodel 10th, 50th, 90th percentile for decadal intervals.
+exposure_trend.py: calculation of population exposure trends.
+share_of_exposure.py: calculating the fraction of record-breaking probability and population in population exposure.
+share_of_probability_proportion.py: calculating the contribution of record-breaking probability growth to population exposure growth.
